@@ -1,6 +1,3 @@
-
-I have a project called **OptiSentry Email Routing Demo**. Please generate a professional, comprehensive `README.md` for it. The README should include:
-
 1. **Project Title & Badge**  
    - Title:OptiSentry Email Routing Demo  
    - Placeholders for build/status badges (CI, Lighthouse, License).
