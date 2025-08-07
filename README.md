@@ -94,7 +94,7 @@ SMTP_USER=
 SMTP_PASS=
 
 DEEPSEEK_API_KEY=
-YOUTUBE_VIDEO_ID=
+YOUTUBE_VIDEO_ID=https://youtu.be/qddqj5A2mJ0?si=w2K2tTJwqrA8VPm2
 GITHUB_CREATOR_LINK=https://github.com/kr00x
 ```
 
